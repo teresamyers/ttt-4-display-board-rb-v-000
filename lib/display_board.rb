@@ -16,6 +16,6 @@ def display_board(board = [" "," "," "," "," "," "," "," "," "])
  puts " #{board[6]} | #{board[7]} | #{board[8]} "
 end
 
-def display_board(board[4])
-  puts #{X}
+def display_board(board = [" "," "," "," "," "," "," "," "," "])
+  puts "X: #{board[4]}"
 end
